@@ -1,0 +1,2 @@
+AddCharModel(0, 0, "dnb2.dff", "dnb2.txd");
+AddCharModel(1, 1, "dnb3.dff", "dnb3.txd");
